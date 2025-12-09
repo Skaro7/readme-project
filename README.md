@@ -7,3 +7,4 @@ Practicar Git i GitHub creant un README ben estructurat i aplicant bones pràcti
 
 ## Tecnologíes
 
+Aquesta línia s'ha afegit des del meu ordinador.
